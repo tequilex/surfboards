@@ -1,0 +1,36 @@
+.section {
+  height: 100vh;
+  min-height: 652px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #fff;
+
+  &--title-color--white {
+    color: #fff;
+    
+    .section__title {
+      color: inherit;
+    }
+  }
+}
+
+.order-section {
+  background: url("../../img/cta.png") center center no-repeat, #fff;
+  background-size: contain;
+  min-height: 652px;
+}
+
+.section__title {
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  margin-bottom: 59px;
+  text-align: center;
+  color: #292929;
+  text-transform: uppercase;
+
+  &-rewiew {
+    margin-bottom: 32px;
+  }
+}

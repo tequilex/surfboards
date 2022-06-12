@@ -1,0 +1,22 @@
+.features__list {
+  display: flex;
+  align-items: center;
+}
+
+.feature__item {
+  display: flex;
+  align-items: center;
+  margin-right: 33.5px;
+}
+
+.feature__item-img {
+  width: 37px;
+  margin-right: 14px;
+}
+
+.feature__item-text {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  max-width: 90px;
+}

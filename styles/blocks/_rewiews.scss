@@ -1,0 +1,54 @@
+.rewiews__display {
+  background: #F8FAF9;
+  padding: 42px 142px 42px 42px;
+  margin-bottom: 15px;
+}
+
+.rewiews__display-inner {
+  display: flex;
+}
+
+.rewiews__avatar {
+  height: 264px;
+  width: 253px;
+}
+
+.rewiews__avatar-img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+.rewiews__content {
+  flex: 1;
+  margin-left: 40px;
+  margin-top: 27px;
+}
+
+.rewiews__title {
+  font-weight: 700;
+  font-size: 27px;
+  line-height: 32px;
+  color: #292929;
+  margin-bottom: 14px;
+}
+
+.rewiews__text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 25px;
+}
+
+.rewiews__author {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #292929;
+}
+
+.rewiews__switcher {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
