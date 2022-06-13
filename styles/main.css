@@ -237,7 +237,7 @@ a {
 }
 
 .order-section {
-  background: url("../img/cta.png") center center no-repeat, #fff;
+  background: url(../img/cta.png) center center no-repeat, #fff;
   background-size: contain;
   min-height: 652px;
 }
@@ -283,7 +283,7 @@ a {
   position: relative;
 }
 .benefits__item:before {
-  content: url("../img/Combined.png");
+  content: url(../img/Combined.png);
   position: absolute;
   top: 60px;
   right: 0;
