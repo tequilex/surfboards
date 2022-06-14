@@ -71,7 +71,7 @@ a {
 }
 
 .hello {
-  background: url(../../img/back.png) center top no-repeat, #1968B1;
+  background: url(../img/back.png) center top no-repeat, #1968B1;
   -webkit-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
           filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
   height: 100vh;
@@ -255,7 +255,7 @@ a {
 }
 
 .order-section {
-  background: url("../../img/cta.png") center top no-repeat, #fff;
+  background: url("../img/cta.png") center top no-repeat, #fff;
   background-size: cover;
   min-height: 652px;
 }
@@ -301,7 +301,7 @@ a {
   position: relative;
 }
 .benefits__item:before {
-  content: url("../../img/Combined.png");
+  content: url("../img/Combined.png");
   position: absolute;
   top: 60px;
   right: 0;
@@ -547,7 +547,7 @@ a {
   border-radius: 4px;
 }
 .radio--checkbox .radio__visible:before {
-  background: url("../../img/Vector.png") center center no-repeat;
+  background: url("../img/Vector.png") center center no-repeat;
 }
 
 .radio__elem {
