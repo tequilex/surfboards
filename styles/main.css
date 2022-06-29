@@ -503,7 +503,7 @@ a {
 @media screen and (max-width: 768px) {
   .menu {
     display: none;
-    padding: 3.6666666667rem 0 20.2777777778rem 0;
+    padding: 3.8888888889rem 0 20.2777777778rem 0;
   }
 }
 
@@ -1318,6 +1318,7 @@ a {
 }
 
 .fullscreen-menu__close {
+  margin-right: 1.1111111111rem;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
